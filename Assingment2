@@ -137,14 +137,6 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "23d188e9-f974-492f-a808-14619c575e4b",
-   "metadata": {},
-   "source": [
-    "## zepto()"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 45,
    "id": "71e46d29-bf9a-4321-8f07-65f72c1c7b3e",
